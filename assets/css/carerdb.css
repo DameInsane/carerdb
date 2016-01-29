@@ -1,0 +1,6 @@
+.meta { font-size: 75% }
+.meta span { display: block }
+.nowrap { white-space: nowrap }
+.yes { background-color: #5cb85c; }
+.no  { background-color: #d9534f; }
+.yes, .no { color: white; font-weight: bold; border-radius: 4px; padding: 1px 4px; }
